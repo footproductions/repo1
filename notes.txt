@@ -1,0 +1,4 @@
+docker logout
+class="styles__username___oMG_s" for first button click, or username is in the text field, search for that ?
+
+clsss="styles__ssoLogout___3S3jd" or look for "Log Out" text
